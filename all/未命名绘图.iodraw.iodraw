@@ -22,8 +22,14 @@
         <mxCell id="lKzubT-338_I29eCBsTu-3" value="每组取2g，3份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-5" target="lKzubT-338_I29eCBsTu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-5" value="分别于40度、50度、60度烘干30min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-7" value="测量重量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
