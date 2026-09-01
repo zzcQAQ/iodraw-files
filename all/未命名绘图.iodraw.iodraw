@@ -44,6 +44,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-5" target="lKzubT-338_I29eCBsTu-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="260" />
+              <mxPoint x="100" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-5" value="分别于40度、50度、60度烘干30min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
         </mxCell>
