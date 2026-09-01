@@ -79,6 +79,9 @@
         <mxCell id="lKzubT-338_I29eCBsTu-25" value="休止角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-27" target="lKzubT-338_I29eCBsTu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-27" value="Carr指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
         </mxCell>
