@@ -34,8 +34,14 @@
         <mxCell id="lKzubT-338_I29eCBsTu-7" value="测量重量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-9" target="lKzubT-338_I29eCBsTu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-9" value="测量休止角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-13" value="测量休止角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
