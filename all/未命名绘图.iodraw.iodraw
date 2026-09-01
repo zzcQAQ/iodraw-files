@@ -28,6 +28,9 @@
         <mxCell id="lKzubT-338_I29eCBsTu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-5" target="lKzubT-338_I29eCBsTu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-5" target="lKzubT-338_I29eCBsTu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-5" value="分别于40度、50度、60度烘干30min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
         </mxCell>
@@ -37,17 +40,11 @@
         <mxCell id="lKzubT-338_I29eCBsTu-7" value="测量重量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-9" target="lKzubT-338_I29eCBsTu-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-9" target="lKzubT-338_I29eCBsTu-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-9" value="测量休止角&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;使用&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;堆直径与堆高计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-13" target="lKzubT-338_I29eCBsTu-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-13" target="lKzubT-338_I29eCBsTu-27">
           <mxGeometry relative="1" as="geometry" />
