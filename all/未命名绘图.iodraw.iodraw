@@ -52,14 +52,11 @@
         <mxCell id="lKzubT-338_I29eCBsTu-13" value="测量堆密度&lt;div&gt;（固定质量法）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-15" target="lKzubT-338_I29eCBsTu-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-15" value="测量振实密度（？）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-17" value="计算与汇总数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-19" target="lKzubT-338_I29eCBsTu-7">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +64,7 @@
         <mxCell id="lKzubT-338_I29eCBsTu-19" value="对照组：不烘干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-22" value="测量重量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lKzubT-338_I29eCBsTu-22" value="失重率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
