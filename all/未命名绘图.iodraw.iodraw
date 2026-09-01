@@ -79,7 +79,12 @@
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-22" target="lKzubT-338_I29eCBsTu-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="420" />
+              <mxPoint x="420" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-22" value="失重率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="360" width="120" height="40" as="geometry" />
@@ -89,6 +94,14 @@
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-25" value="休止角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKzubT-338_I29eCBsTu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lKzubT-338_I29eCBsTu-27" target="lKzubT-338_I29eCBsTu-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="420" />
+              <mxPoint x="420" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lKzubT-338_I29eCBsTu-27" value="Carr指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
