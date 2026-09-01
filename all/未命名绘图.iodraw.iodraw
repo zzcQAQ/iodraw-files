@@ -79,7 +79,7 @@
         <mxCell id="lKzubT-338_I29eCBsTu-25" value="休止角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-27" value="测量振实密度（？）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lKzubT-338_I29eCBsTu-27" value="Carr指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
