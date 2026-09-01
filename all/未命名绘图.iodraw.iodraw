@@ -58,8 +58,8 @@
         <mxCell id="lKzubT-338_I29eCBsTu-17" value="计算与汇总数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKzubT-338_I29eCBsTu-19" value="每组取2g，3份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="lKzubT-338_I29eCBsTu-19" value="对照组：不烘干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
