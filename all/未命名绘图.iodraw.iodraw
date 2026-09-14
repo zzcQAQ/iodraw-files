@@ -40,6 +40,9 @@
         <mxCell id="RIqyFO2zyDni9_O2MniA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RIqyFO2zyDni9_O2MniA-3" target="RIqyFO2zyDni9_O2MniA-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RIqyFO2zyDni9_O2MniA-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
