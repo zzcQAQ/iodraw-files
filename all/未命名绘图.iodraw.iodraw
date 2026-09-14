@@ -100,7 +100,7 @@
         <mxCell id="RIqyFO2zyDni9_O2MniA-47" value="测量片重、崩解时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIqyFO2zyDni9_O2MniA-49" value="绘图，计算，&lt;div&gt;数据汇总&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RIqyFO2zyDni9_O2MniA-49" value="绘图，计算&lt;div&gt;数据汇总&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
