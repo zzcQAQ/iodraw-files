@@ -13,6 +13,9 @@
         <mxCell id="RIqyFO2zyDni9_O2MniA-2" value="冻干蔓越莓粉3g" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RIqyFO2zyDni9_O2MniA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RIqyFO2zyDni9_O2MniA-3" target="RIqyFO2zyDni9_O2MniA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIqyFO2zyDni9_O2MniA-3" value="最佳条件烘干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
         </mxCell>
@@ -36,9 +39,6 @@
         </mxCell>
         <mxCell id="RIqyFO2zyDni9_O2MniA-11" value="0g" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RIqyFO2zyDni9_O2MniA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RIqyFO2zyDni9_O2MniA-3" target="RIqyFO2zyDni9_O2MniA-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIqyFO2zyDni9_O2MniA-15" value="0.5g" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="40" width="40" height="40" as="geometry" />
