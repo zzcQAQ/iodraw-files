@@ -94,8 +94,14 @@
         <mxCell id="RIqyFO2zyDni9_O2MniA-45" value="获得成型率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RIqyFO2zyDni9_O2MniA-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RIqyFO2zyDni9_O2MniA-47" target="RIqyFO2zyDni9_O2MniA-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIqyFO2zyDni9_O2MniA-47" value="测量片重、崩解时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIqyFO2zyDni9_O2MniA-49" value="测量片重、崩解时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
