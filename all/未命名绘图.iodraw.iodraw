@@ -107,22 +107,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-1" value="冻干蔓越莓粉烘干工序判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="600" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7HZ3--BIxp9mv9vtaAQo-3" target="7HZ3--BIxp9mv9vtaAQo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-3" value="冻干蔓越莓粉泡腾片优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="600" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7HZ3--BIxp9mv9vtaAQo-6" target="7HZ3--BIxp9mv9vtaAQo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-6" value="填充剂配方选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="160" height="40" as="geometry" />
+          <mxGeometry x="440" y="600" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7HZ3--BIxp9mv9vtaAQo-9" value="填充剂配方选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="160" height="40" as="geometry" />
+        <mxCell id="7HZ3--BIxp9mv9vtaAQo-9" value="成品配方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
