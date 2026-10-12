@@ -103,10 +103,8 @@
         <mxCell id="RIqyFO2zyDni9_O2MniA-49" value="绘图，计算&lt;div&gt;数据汇总&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7HZ3--BIxp9mv9vtaAQo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7HZ3--BIxp9mv9vtaAQo-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7HZ3--BIxp9mv9vtaAQo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7HZ3--BIxp9mv9vtaAQo-1" target="7HZ3--BIxp9mv9vtaAQo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-1" value="冻干蔓越莓粉烘干工序判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="160" height="40" as="geometry" />
@@ -116,6 +114,9 @@
         </mxCell>
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-3" value="冻干蔓越莓粉泡腾片优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7HZ3--BIxp9mv9vtaAQo-6" value="冻干蔓越莓粉烘干工序判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
