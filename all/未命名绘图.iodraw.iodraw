@@ -106,8 +106,8 @@
         <mxCell id="7HZ3--BIxp9mv9vtaAQo-1" value="冻干蔓越莓粉烘干工序判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7HZ3--BIxp9mv9vtaAQo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="7HZ3--BIxp9mv9vtaAQo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
