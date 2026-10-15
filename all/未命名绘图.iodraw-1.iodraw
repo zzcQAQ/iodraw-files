@@ -22,6 +22,14 @@
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s3xxvm8b6xvkd-yA_CJK-3" target="s3xxvm8b6xvkd-yA_CJK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s3xxvm8b6xvkd-yA_CJK-3" target="s3xxvm8b6xvkd-yA_CJK-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="200" />
+              <mxPoint x="378" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-3" value="飞船质量" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
@@ -29,7 +37,7 @@
           <mxGeometry x="220" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="240" width="76" height="40" as="geometry" />
+          <mxGeometry x="340" y="240" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
