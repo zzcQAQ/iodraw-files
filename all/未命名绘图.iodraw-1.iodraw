@@ -51,8 +51,11 @@
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-21" value="每帧更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s3xxvm8b6xvkd-yA_CJK-22" target="s3xxvm8b6xvkd-yA_CJK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-22" value="飞船当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
