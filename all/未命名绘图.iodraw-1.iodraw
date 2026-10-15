@@ -42,17 +42,14 @@
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-12" value="点击更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3xxvm8b6xvkd-yA_CJK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="s3xxvm8b6xvkd-yA_CJK-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="300" as="targetPoint" />
-            <mxPoint x="270" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-21" value="每帧更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-22" value="飞船当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
