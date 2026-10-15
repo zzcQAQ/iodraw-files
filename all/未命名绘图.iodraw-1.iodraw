@@ -9,7 +9,8 @@
             <mxPoint x="260" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="200" />
-              <mxPoint x="260" y="200" />
+              <mxPoint x="250" y="200" />
+              <mxPoint x="250" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -29,7 +30,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="200" />
-              <mxPoint x="380" y="200" />
+              <mxPoint x="390" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,7 +41,7 @@
           <mxGeometry x="210" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-7" value="飞船最大加速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="340" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="500" y="120" width="40" height="160" as="geometry" />
