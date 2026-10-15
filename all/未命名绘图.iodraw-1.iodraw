@@ -52,7 +52,7 @@
           <mxGeometry x="540" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-22" value="飞船当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
