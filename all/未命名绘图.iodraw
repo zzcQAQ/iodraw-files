@@ -1,0 +1,88 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="AKZDyyQg7ahkAKRXdOl4">
+    <mxGraphModel dx="1425" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-1" target="s3xxvm8b6xvkd-yA_CJK-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-1" value="引擎限速" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-2" target="s3xxvm8b6xvkd-yA_CJK-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-2" value="引擎推力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-3" target="s3xxvm8b6xvkd-yA_CJK-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-3" target="s3xxvm8b6xvkd-yA_CJK-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="200" />
+              <mxPoint x="390" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-3" value="飞船质量" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-5" target="s3xxvm8b6xvkd-yA_CJK-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-5" value="飞船最大速度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-7" target="s3xxvm8b6xvkd-yA_CJK-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-7" value="飞船基础加速度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="500" y="120" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-12" value="点击更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="500" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-21" value="每帧更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-22" target="s3xxvm8b6xvkd-yA_CJK-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-22" target="s3xxvm8b6xvkd-yA_CJK-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-22" target="s3xxvm8b6xvkd-yA_CJK-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-22" value="飞船当前速度&lt;div&gt;趋近于&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-28" target="s3xxvm8b6xvkd-yA_CJK-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-28" value="加速度衰减" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s3xxvm8b6xvkd-yA_CJK-41" target="s3xxvm8b6xvkd-yA_CJK-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-41" value="当前加速度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
