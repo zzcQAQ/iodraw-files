@@ -58,7 +58,7 @@
           <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-28" value="加速度衰减" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
