@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s3xxvm8b6xvkd-yA_CJK-1" value="引擎推力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-1" value="引擎最大推力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-2" value="引擎推力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
