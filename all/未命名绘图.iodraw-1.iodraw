@@ -19,10 +19,13 @@
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-2" value="引擎加速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s3xxvm8b6xvkd-yA_CJK-3" target="s3xxvm8b6xvkd-yA_CJK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s3xxvm8b6xvkd-yA_CJK-3" value="飞船质量" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3xxvm8b6xvkd-yA_CJK-5" value="飞船速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-5" value="飞船最大" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
