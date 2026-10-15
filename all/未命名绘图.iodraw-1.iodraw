@@ -50,7 +50,7 @@
             <mxPoint x="250" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3xxvm8b6xvkd-yA_CJK-15" value="通过衰减公式&lt;div&gt;趋近于&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s3xxvm8b6xvkd-yA_CJK-15" value="通过衰减公式&lt;div&gt;趋近于0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
